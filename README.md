@@ -25,7 +25,7 @@ I have not contributed to anything yet.
 📧 Contact Information:
 
 Feel free to connect with me!
-- Email: john.cabrera@jcabs.tech
+- Email: jchristiancabrera15@gmail.com
 - LinkedIn: [linkedin.com/in/johncabrera0715/](https://www.linkedin.com/in/johncabrera0715/)
 
 🏆 Additional Sections:
