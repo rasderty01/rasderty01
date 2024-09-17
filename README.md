@@ -4,6 +4,7 @@ Hi there! I'm John Christian Cabrera, a passionate Customer Support Specialist a
 
 🚀 Projects:
 
+- **[Steven by PrinTrail](https://steven.printrail.com)**: Built an all-in-one events management app for couples, coordinators and other users to manage their guests and rsvps.
 - **[PrinTrail](https://printrail.shop)**: Developed custom workflows using ClickUp features to streamline customer support processes for "PrinTrail," a landing page with ClickUp Forms for collecting printing details and delivering them to customers' homes, resulting in a 20% increase in team efficiency.
 - **[ReInventory](https://vercel.com/john-christian-cabreras-projects/reinventory)**: Created an online inventory system to track sales and manage inventory, featuring a user-friendly interface and real-time tracking of items. 
 - **[Fi Lestorage](https://filesx-nu.vercel.app/)**: Developed a file storage upload system similar to Google Drive for managing and storing files online. The system allows users to upload, organize, and access files with a user-friendly interface and real-time tracking of uploaded items.
