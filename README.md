@@ -13,10 +13,10 @@ Hi there! I'm John Christian Cabrera, a passionate Customer Support Specialist a
 💻 Skills and Technologies:
 
 - **Languages**: Proficient in Typescript and Javascript
-- **Frontend**: Experience with HTML, CSS, and React.ts; exploring Angular.
-- **Backend**: Familiar with Node.js and Express.
-- **Databases**: Working knowledge of MySQL and MongoDB.
-- **ORM**: Knowledge in Prisma and Drizzle.
+- **Frontend**: Experience with HTML, CSS, React.js, Next.js; exploring Angular.
+- **Backend**: Familiar with Node.js and Express (or Nest.js).
+- **Databases**: Supabase and MongoDB.
+- **ORM**: Knowledge in Prisma.
 - **Tools**: Proficient with Git, GitHub, and various ClickUp integrations.
 
 🌟 Contributions:
@@ -33,7 +33,6 @@ Feel free to connect with me!
 
 - **Achievements**: Passed CCNA Certification way back in February 2020
 - **Education**: Bachelor's degree in Information Systems from Ateneo de Cagayan Xavier University.
-- **Certifications**: Currently pursuing a Fullstack Development certification from an online coding course.
 - **Personal Interests**: In my free time, I enjoy watching tech content creators on YouTube, gaming, and searching for web development ideas.
 
 
