@@ -1,6 +1,6 @@
 👋 Introduction:
 
-Hi there! I'm John Christian Cabrera, a passionate Customer Support Specialist at ClickUp with a keen interest in software development. I'm currently honing my skills to transition into a Fullstack Developer role. I love solving problems and making users' lives easier, and I'm excited to apply these skills to building robust and user-friendly applications.
+Hi there! I'm John Christian Cabrera, a passionate Technical Support Specialist at ClickUp with a keen interest in software development. I'm currently honing my skills to transition into a Fullstack Developer role. I love solving problems and making users' lives easier, and I'm excited to apply these skills to building robust and user-friendly applications.
 
 🚀 Projects:
 
